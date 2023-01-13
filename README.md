@@ -27,7 +27,7 @@ I am working on other projects as well so the timeline is "to be determined."
 
 ![Login gif](https://thumbs.gfycat.com/HandyPeacefulGonolek-size_restricted.gif)
 
-## Users Personal Dashboard: ##
+## User's Personal Dashboard: ##
 - Keep track of the amount of collections you have
 - Initially there is only 1 search bar in order to easily find the collection you are looking for.
 - Upon Clicking a collection, a second search appears to allow a user to search through the comics within the clicked collection.
