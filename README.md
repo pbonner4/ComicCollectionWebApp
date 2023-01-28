@@ -32,7 +32,7 @@ I am working on other projects as well so the timeline is "to be determined."
 - Initially there is only 1 search bar in order to easily find the collection you are looking for.
 - Upon Clicking a collection, a second search appears to allow a user to search through the comics within the clicked collection.
 - The info check mark at the bottom of each comic allows for a summary of the comic to render on the left navigation bar, if one's available.
-- Towards the end of the gid I display how the comics will look depending on which user display (Light vs Dark) is clicked.
+- Towards the end of the gif I display how the comics will look depending on which user display (Light vs Dark) is clicked.
 
 ![UsersDashboard gif](https://thumbs.gfycat.com/GiantPitifulGalapagoshawk-size_restricted.gif)
 
