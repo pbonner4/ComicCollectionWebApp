@@ -1,6 +1,6 @@
 # ComicCollectionWebApp
 
-An application for comic book fans to register for an account, create personal comic book collections to display and share with there friends, and mark collctions public for the whole platform to look at.
+An application for comic book fans to register for an account, create personal comic book collections to display, share with there friends, and mark collctions public for the whole platform to look at.
 
 # Project Status
 Largeley complete but I will return to add features such as saving comics from public collections to your own "save for later" collection, a "like" system, share comics with friends functionality etc.
