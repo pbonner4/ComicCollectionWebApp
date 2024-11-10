@@ -18,7 +18,7 @@ I am working on other projects as well so the timeline is "to be determined."
 - Lists Main Selling Points
 - Button sends users straight back to the top in order to register and make an account.
 
-![Registration gif](https://thumbs.gfycat.com/CompleteGivingHoatzin-size_restricted.gif)
+!![Registration gif](https://thumbs.gfycat.com/CompleteGivingHoatzin-size_restricted.gif)
 
 ## Login if you have an account with us already: ##
 - Light and dark mode demonstrated here as well.
@@ -42,7 +42,7 @@ I am working on other projects as well so the timeline is "to be determined."
 - For example, as a unauthorized vistior and comic book fan, I may see a public collection of Doctor Strange Comics and want to learn more, save it to my own collection etc., but cant do any of that until I register - which is where the main "selling" come in on the register page.
 - An authorized user would make a collection public in order to show it off, or share it publicly for other comic fans to mayb learn more and become more interested in their comics.
 
-![PublicPage gif](https://thumbs.gfycat.com/ThankfulUncommonAltiplanochinchillamouse-size_restricted.gif)
+![https://thumbs.gfycat.com/ThankfulUncommonAltiplanochinchillamouse-size_restricted.gif)
 
 ## Add A Collection, or Add More to Existing Collection ##
 - A user will always be able to add a new collection, and then immediately be redirected to add comics to it.
